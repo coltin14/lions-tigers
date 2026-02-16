@@ -1,16 +1,54 @@
 # Infinite Dog App
 
-This web application displays images of various dog breeds in a slideshow.
+## Author
+Coltin Rogge
 
-## Credits
-Based on the tutorial by Brad Schiff: "Dogs, JavaScript & An API Fetch, Promises & Async Await".
+## Project Description
+This web application displays images of dog breeds in an automatic slideshow.
+Users select a breed from a dropdown menu, and images are retrieved from a
+public API and displayed in sequence.
 
-All of the code and content is credited to LearnWebCode or Brad Schiff 
+## Credits (Non-Original Work)
+This project was created by following the tutorial:
 
-Here's the link to his video: https://www.youtube.com/watch?v=AVmGmLFcukM
+Brad Schiff — "Dogs, JavaScript & An API Fetch, Promises & Async Await"
+LearnWebCode
 
-## How to Run
-1. Open the Azure-hosted link.
-2. Choose a dog breed from the dropdown.
-3. Enjoy the slideshow!
+Significant portions of the design, structure, and concepts originate from
+this tutorial and are used for educational purposes.
 
+Dog images are provided by the Dog CEO public API:
+https://dog.ceo/dog-api/
+
+## AI Usage Disclosure
+ChatGPT was used for debugging assistance, explanations of concepts,
+and guidance on formatting the README and LICENSE files.
+All code was reviewed, tested, and implemented by the author.
+
+## How to Compile and Execute
+
+No compilation is required.
+
+To run locally:
+
+1. Download or clone this repository
+2. Open the project folder
+3. Open index.html in a modern web browser
+4. Select a dog breed from the dropdown menu
+5. The slideshow will begin automatically
+
+## Azure Deployment
+
+This application is hosted as an Azure Website at:
+
+PASTE_YOUR_AZURE_URL_HERE
+
+## License
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+## Repository
+
+GitHub repository:
+https://github.com/coltin14/lions-tigers
